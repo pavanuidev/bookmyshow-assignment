@@ -1,0 +1,26 @@
+#container{
+  padding: 2rem;
+  text-align:center;
+}
+
+#my_input {
+  width: 500px;
+    height: 30px;
+}
+
+#btn {
+  width: 150px;
+    height: 40px;
+    color: white;
+    background-color: #00a1ff;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+#result{
+  margin-top:50px;
+}
+
+#final_list{
+  word-break: break-all;
+}
